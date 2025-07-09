@@ -153,6 +153,11 @@ a {
     height: 80px;
     font-size: 0.9rem;
   }
+
+  .image,
+  img {
+    width: 150px;
+  }
 }
 
 @media (max-width: 426px) {
