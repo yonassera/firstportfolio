@@ -161,6 +161,10 @@ a {
 }
 
 @media (max-width: 426px) {
+.title {
+    height: 40vh;
+  }
+  
   #intro h1 {
     font-size: 3rem;
   }
