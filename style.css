@@ -160,7 +160,7 @@ a {
   }
 }
 
-@media (max-width: 426px) {
+@media (max-width: 430px) {
 .title {
     height: 40vh;
   }
